@@ -29,7 +29,7 @@ team project of 4 members (gantt diagramm to share tasks)
 # Run
 brew gtk
 brew gsl
-git clone https://github.com/rim31/42-C-raytracing.git
+git clone https://github.com/rim31/42_C_raytracing.git
 cd 42-C-raytracing
 make
 
@@ -46,18 +46,18 @@ plane
 cylinder
 cone
 
-![Texte alternatif](https://github.com/rim31/42-C-Raytracing/blob/master/Screen%20Shot%202016-06-12%20at%206.38.05%20PM.png "homer")
+![Texte alternatif](https://github.com/rim31/42_C_raytracing/blob/master/Screen%20Shot%202016-06-12%20at%206.38.05%20PM.png "homer")
 
 # Bonus :
 reflection, exotiques forms : ellipsoide, parabolloide, torrus, triangle, quadrilatere, limited forms, texture, loading info
 multi threads, various lights, editor scenes : set up yourself camera , lights, rotation and obejct
 
-![Texte alternatif](https://github.com/rim31/42-C-Raytracing/blob/master/Screen%20Shot%202016-06-12%20at%206.16.19%20PM.png "bonus")
+![Texte alternatif](https://github.com/rim31/42_C_raytracing/blob/master/Screen%20Shot%202016-06-12%20at%206.16.19%20PM.png "bonus")
 
 # Ultimate bonus:
 GTK menu : anti-aliasing, filter speia or various colors, save picture, open scenes in menu
 textures, homer, starfox, minion, a pokemon, solar system etc...
-![Texte alternatif](https://github.com/rim31/42-C-Raytracing/blob/master/Screen%20Shot%202016-06-15%20at%2010.55.48%20AM.png "basic")
+![Texte alternatif](https://github.com/rim31/42_C_raytracing/blob/master/Screen%20Shot%202016-06-15%20at%2010.55.48%20AM.png "basic")
 
 Aninamtion : presse E key
 
